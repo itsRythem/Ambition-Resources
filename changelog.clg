@@ -1,5 +1,11 @@
 <start>
-<version> 0.01A
+<version> 1.0.0 Alpha
 <distribution> development
 <information> initial development build
+<addition> added test
+<addition> added test1
+<deletion> removed test
+<deletion> deleted test1
+<modification> modified test
+<modification> modified test1
 <end>
