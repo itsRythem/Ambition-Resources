@@ -1,11 +1,11 @@
 <start>
 <version> 1.0.0 Alpha
 <distribution> development
-<information> initial development build
-<addition> added test
-<addition> added test1
-<deletion> removed test
-<deletion> deleted test1
-<modification> modified test
-<modification> modified test1
+<information> Initial Development Build.
+<addition> Test was added
+<addition> Test1 was added
+<deletion> Test was deleted
+<deletion> Test1 was deleted
+<modification> Test was modified
+<modification> Test1 was fixed
 <end>
