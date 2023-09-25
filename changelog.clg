@@ -1,13 +1,14 @@
 <start>
 <version> 1.0.0 Development
 <distribution> development
-<information> 100 Initial Development Build
+<information> Initial Development Build
+<modification> No Changes To Document
 <end>
 
 <start>
 <version> 1.0.1 Development
 <distribution> development
-<information> 101 Major Update
+<information> Major Update
 <addition> Added Compass
 <addition> Added Trail
 <addition> Added Jump Circle
@@ -27,7 +28,7 @@
 <start>
 <version> 1.0.2 Development
 <distribution> development
-<information> 102 Major Update
+<information> Major Update
 <addition> Added Super Hero FX Module
 <addition> Added Hotbar Module
 <addition> Added Nametags Module
