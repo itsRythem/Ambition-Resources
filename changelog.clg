@@ -1,11 +1,48 @@
 <start>
-<version> 1.0.0 Alpha
+<version> 1.0.0 Development
 <distribution> development
-<information> Initial Development Build.
-<addition> Test was added
-<addition> Test1 was added
-<deletion> Test was deleted
-<deletion> Test1 was deleted
-<modification> Test was modified
-<modification> Test1 was fixed
+<information> 100 Initial Development Build
+<end>
+
+<start>
+<version> 1.0.1 Development
+<distribution> development
+<information> 101 Major Update
+<addition> Added Compass
+<addition> Added Trail
+<addition> Added Jump Circle
+<addition> Added Criticals
+<addition> Added Intave Auto Block
+<addition> Added Enchant Glint
+<addition> Added More Commands (.show / .hide)
+<addition> 12+ New Module List Settings
+<modification> Fully Recoded Scaffold
+<modification> Improved Kill Aura 'Advanced' Rotations
+<modification> Fixed Cheat Detector
+<modification> Fixed Some Minor OpenGL Issues
+<modification> Improved AGC Flight
+<modification> All Scaffold Issues Resolved (Polar & Watchdog)
+<end>
+
+<start>
+<version> 1.0.2 Development
+<distribution> development
+<information> 102 Major Update
+<addition> Added Super Hero FX Module
+<addition> Added Hotbar Module
+<addition> Added Nametags Module
+<addition> Added Scoreboard Module
+<addition> Added Botting system with Baritone & Client Support
+<addition> Added Radar
+<addition> Added Fast Break
+<addition> Added Auto Potion
+<addition> Added Regen
+<addition> Added More Commands (.vclip / .clienturl / .clientname)
+<addition> Added Auto Eat (Supports Gapples and Fast Use)
+<addition> Added Auto Pit (Chat Events, Upcoming Events, Auto Head)
+<modification> Improved Ping Spoof Module
+<modification> Fixed Silent Auto Tool
+<modification> Made Watchdog Anti Void & No Fall more reliable
+<modification> Improved Bed Breaker
+<modification> Improved Anti Bot
 <end>
