@@ -2,7 +2,7 @@
 <version> 1.0.0 Development
 <distribution> development
 <information> Initial Development Build
-<modification> No Changes To Document
+<modification> N/A
 <end>
 
 <start>
@@ -15,7 +15,7 @@
 <addition> Added Criticals
 <addition> Added Intave Auto Block
 <addition> Added Enchant Glint
-<addition> Added More Commands (.show / .hide)
+<addition> Added More Commands (.hide)
 <addition> 12+ New Module List Settings
 <modification> Fully Recoded Scaffold
 <modification> Improved Kill Aura 'Advanced' Rotations
