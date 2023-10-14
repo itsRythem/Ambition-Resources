@@ -1,12 +1,14 @@
 <start>
-<version> 1.0.0 Development
+<date> 9/8/2023
+<version> 1.0.0-dev
 <distribution> development
 <information> Initial Development Build
 <modification> N/A
 <end>
 
 <start>
-<version> 1.0.1 Development
+<date> 9/15/2023
+<version> 1.1.0-dev
 <distribution> development
 <information> Major Update
 <addition> Added Compass
@@ -26,7 +28,8 @@
 <end>
 
 <start>
-<version> 1.0.2 Development
+<date> 10/2/2023
+<version> 1.2.0-dev
 <distribution> development
 <information> Major Update
 <addition> Added Super Hero FX Module
@@ -46,4 +49,19 @@
 <modification> Made Watchdog Anti Void & No Fall more reliable
 <modification> Improved Bed Breaker
 <modification> Improved Anti Bot
+<end>
+
+<start> 
+<date> 10/14/2023
+<version> 1.3.0-dev
+<distribution> development
+<information> Regular Update
+<addition> Began server side features
+<addition> Scripting Editor
+<addition> Alt Manager GUI
+<addition> New GUIs with a unique appearence (Material / Dropdown)
+<addition> Added Anti-Heuristics settings to (KillAura / AimAssist etc)
+<modification> Improvements to the Scripting API
+<modification> Improvements to the Kill Aura
+<deletion> Removed Old GUIs (ZeroDay / Astolfo)
 <end>
